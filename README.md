@@ -1,12 +1,6 @@
-# eazyeats-foodservice
-The EazyEats website is a static web project developed using HTML and CSS. A clean and simple layout prioritizing desktop viewing. Visually engaging elements and styles created with CSS to enhance user engagement.
-Here’s a more concise and relevant description for a single-page food ordering website:  
-
----
-
 # EazyEats - Food Ordering Website  
 
-EazyEats is a simple, single-page food ordering website built using HTML and CSS. It showcases a clean and visually appealing design for an online food service platform.  
+EazyEats is a simple, single-page food ordering website built using HTML and CSS. It showcases a clean and visually appealing design for an online food service platform and styles created with CSS to enhance user engagement.
 
 ## Features    
   Attractive Layout: A visually engaging structure created with CSS.  
