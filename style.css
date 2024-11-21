@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.section-one__heading {
+    position: absolute;
+    top: 20%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 100px;
+    color: wheat;
+}
+.home-section__picture{
+    margin: 10px;
+}
+
+.home-section {
+    margin: 10px;
+}
+
+.section-two,
+.section-three,
+.section-four,
+.section-five,
+.section-six,
+.section-seven,
+.section-eight,
+.section-nine,
+.section-ten,
+.section-eleven,
+.section-twelve,
+.section-thirteen,
+.section-fourteen,
+.section-fifteen,
+.section-sixteen,
+.section-seventeen,
+.section-eighteen,
+.section-nineteen,
+.section-twenty,
+.section-twentyone,
+.section-twentytwo,
+.section-twentythree {
+    border: none;
+    border: 1px solid black;
+    height: 300px;
+    width: 250px;
+    padding: 0;
+    margin: 10px;
+    display: inline-block;
+}
+
+.section-two__button,
+.section-three__button,
+.section-four__button,
+.section-five__button,
+.section-six__button,
+.section-seven__button,
+.section-eight__button,
+.section-nine__button,
+.section-ten__button,
+.section-eleven__button,
+.section-twelve__button,
+.section-thirteen__button,
+.section-fourteen__button,
+.section-fifteen__button,
+.section-sixteen__button,
+.section-seventeen__button,
+.section-eighteen__button,
+.section-nineteen__button,
+.section-twenty__button,
+.section-twentyone__button,
+.section-twentytwo__button,
+.section-twentythree__button {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border: none;
+}
+
+.contact{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
