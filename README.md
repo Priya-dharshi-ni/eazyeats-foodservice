@@ -13,7 +13,7 @@ This project demonstrates basic front-end development skills using HTML and CSS,
 ## How to Use  
 1. Clone the repository:  
    ```bash  
-  git clone https://priya-dharshi-ni.github.io/eazyeats-foodservice/
+    git clone https://priya-dharshi-ni.github.io/eazyeats-foodservice/
    ```
 2. Open the `index.html` file in any browser to view the website.  
 
