@@ -11,14 +11,11 @@ EazyEats is a simple, single-page food ordering website built using HTML and CSS
 This project demonstrates basic front-end development skills using HTML and CSS, focusing on structure and style.  
 
 ## How to Use  
-1. Clone the repository:  
-   ```bash  
-    git clone https://priya-dharshi-ni.github.io/eazyeats-foodservice/
-   ```
-2. Open the `index.html` file in any browser to view the website.  
+
+You can explore the Food Ordering Website by visiting https://priya-dharshi-ni.github.io/eazyeats-foodservice/
 
 ## Technologies Used  
-       HTML
-       CSS
+  HTML
+  CSS
 
 Thank you visiting my Food Ordering website.
