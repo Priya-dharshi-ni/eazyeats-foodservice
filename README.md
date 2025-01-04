@@ -15,7 +15,7 @@ This project demonstrates basic front-end development skills using HTML and CSS,
 You can explore the Food Ordering Website by visiting https://priya-dharshi-ni.github.io/eazyeats-foodservice/
 
 ## Technologies Used  
-  HTML
-  CSS
+  1.HTML
+  2.CSS
 
 Thank you visiting my Food Ordering website.
